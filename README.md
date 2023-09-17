@@ -1,2 +1,2 @@
 # Matrix-Multiplication
-Distributed Application 
+Academic Project: Distributed Matrix Multiplication Using Java RMI
